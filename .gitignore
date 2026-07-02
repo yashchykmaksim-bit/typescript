@@ -3,6 +3,9 @@
 
 ### Node ###
 # Logs
+.DS_Store
+node_modules
+.idea
 logs
 *.log
 npm-debug.log*
